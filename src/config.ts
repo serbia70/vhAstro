@@ -41,7 +41,7 @@ export default {
   // 评论组件 Twikoo
   Twikoo: { envId: 'https://twikoo.vvhan.com/.netlify/functions/twikoo' },
   // Han Analytics 统计（https://github.com/uxiaohan/HanAnalytics）
-  HanAnalytics: { enable: true, server: 'https://hananalytics.serbia1688.workers.dev', siteId: 'Hello-HanHexoBlog' },
+  HanAnalytics: { enable: true, server: 'https://vh-astro-psi.vercel.app/', siteId: '塞尔维亚买房移民网站' },
   // Google 广告
   GoogleAds: {
     ad_Client: 'ca-pub-xxxxxx',
