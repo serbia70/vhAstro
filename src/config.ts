@@ -1,7 +1,7 @@
 export default {
   Title: '塞尔维亚买房移民网站',
   Site: 'https://serbia70.com',
-  Subtitle: '不曾与你分享的时间,我在进步.',
+  Subtitle: '不曾与你分享的时间,我在进步',
   Description: '韩小韩博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
   Author: '塞国007',
   Motto: '租房、买房、移民、学校、生活',
